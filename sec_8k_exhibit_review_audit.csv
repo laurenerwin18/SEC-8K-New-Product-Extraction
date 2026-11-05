@@ -1,0 +1,11 @@
+ticker,candidate,decision,reason
+COHR,PhotonLink integrated optics platform,Include,"Explicitly described as launched in Sept. 21, 2026 announcement."
+COHR,POLS compact QSFP portfolio,Include - portfolio expansion,Exhibit says portfolio expanded with full C-band amplification in compact QSFP form factor; product extension is described as shipping in high volume.
+COHR,300mm high-thermal-conductivity SiC substrates,Include - sampling stage,Exhibit says sampling began with AI semiconductor partners; not described as general commercial launch.
+ZBH,Megalodon Dynamic Compression System,Include,Explicitly described as a launch in foot-and-ankle portfolio.
+ZBH,SmartShot Marrow Access Device,Include,Explicitly described as a launch in foot-and-ankle portfolio.
+CVS,Health100,Include - service/platform,Exhibit refers to launch of Health100 and describes AI-native products and services.
+PODD,Omnipod Discover,Include - U.S. market release,Exhibit says full U.S. market release completed and describes its engagement-platform functions.
+MOS,Six unnamed Mosaic Biosciences products,Do not count as six named rows,Earnings release says six new products launched YTD but does not identify product names in the exhibit text.
+QCOM,Multi-generational product collaboration with Amazon for AI data centers,Needs more detail,"Announced collaboration, but exhibit does not identify a specific named product in the text reviewed."
+AFL,Miraito and Anshin Palette insurance products,Exclude from new-launch count,Described as launched in 2025; historical references in a 2026 earnings release.
